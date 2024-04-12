@@ -20,6 +20,8 @@ End the program.
  
 ### PROGRAM:
 ```
+Devloped by: MANOKARTHICK S
+Register number:212222230077
 import math 
 l1 = [4,2]
 l2 = [10,6]
@@ -29,8 +31,7 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![Screenshot 2024-03-22 132830](https://github.com/MANOKARTHICK09/DISTANCE-BETWEEN-TWO-POINTS/assets/121785458/416c6349-549d-43d0-901d-a76d84dc5031)
-
+![image](https://github.com/MANOKARTHICK09/DISTANCE-BETWEEN-TWO-POINTS/assets/121785458/44d0ae2f-53fc-4a89-9dd4-a052038f2366)
 
 
 ### RESULT:
